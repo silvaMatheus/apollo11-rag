@@ -1,0 +1,7 @@
+google-generativeai
+chromadb
+pytesseract
+pillow
+pandas
+tqdm
+python-dotenv
